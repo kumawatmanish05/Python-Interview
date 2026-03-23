@@ -1,0 +1,180 @@
+🚀 DAY 1 (Foundation)
+
+🐍 Python
+1.Reverse string
+2.Palindrome check
+3.Count character frequency
+4.Largest element in list
+5.Remove duplicates from list
+6.First non-repeating character
+7.Anagram check
+
+🗄️ SQL
+1.SELECT with WHERE
+2.ORDER BY
+3.COUNT(*)
+4.AVG salary
+5.Employees with salary > X
+6.Names starting with 'A'
+7.TOP 3 salaries
+
+📊 Pandas + NumPy
+1.Create DataFrame
+2.Select columns
+3.Filter rows
+4.Handle missing values
+5.Create NumPy array
+6.Array addition
+7.Mean & std
+
+🚀 DAY 2 (Slightly Up)
+
+🐍 Python
+Second largest element
+Merge two lists
+Count vowels
+Reverse list (no slicing)
+Check sorted list
+Find duplicates
+Sum of digits
+🗄️ SQL
+GROUP BY
+SUM, AVG
+HAVING
+Count per department
+Max salary per dept
+Min salary
+Distinct values
+📊 Pandas + NumPy
+groupby()
+Aggregation
+Sorting
+value_counts()
+NumPy indexing
+Reshape array
+Array filtering
+🚀 DAY 3 (Joins + Logic)
+🐍 Python
+Prime check
+Fibonacci
+Factorial recursion
+GCD
+Armstrong number
+Count digits
+Swap variables
+🗄️ SQL
+INNER JOIN
+LEFT JOIN
+RIGHT JOIN
+Join 2 tables
+Employees + departments
+Missing matches
+Join with condition
+📊 Pandas + NumPy
+Merge DataFrames
+Join DataFrames
+Handle duplicates
+Rename columns
+NumPy slicing
+Broadcasting
+Random arrays
+🚀 DAY 4 (Intermediate)
+🐍 Python
+FizzBuzz
+Longest word
+Replace spaces
+Check digits
+Remove whitespace
+Capitalize words
+String compression
+🗄️ SQL
+Subqueries
+Nested SELECT
+IN operator
+EXISTS
+2nd highest salary
+Duplicate records
+Employees > manager
+📊 Pandas + NumPy
+Apply function
+Map function
+Sorting multiple columns
+Fill missing with mean
+NumPy math ops
+Dot product
+Flatten array
+🚀 DAY 5 (Interview Core)
+🐍 Python
+Two Sum
+Move zeros
+Missing number
+Intersection arrays
+Rotate list
+Majority element
+Pair with sum
+🗄️ SQL
+Window functions
+ROW_NUMBER()
+RANK()
+Dense Rank
+Running total
+Partition by
+Top N per group
+📊 Pandas + NumPy
+Group + filter
+Pivot table
+Crosstab
+Ranking
+NumPy vectorization
+Argmax/Argmin
+Unique values
+🚀 DAY 6 (Advanced)
+🐍 Python
+Valid parentheses
+Longest substring
+Binary search
+Peak element
+Merge intervals
+Top K elements
+Product except self
+🗄️ SQL
+Complex joins
+Multiple joins
+Case statements
+Conditional aggregation
+Self join
+Rolling averages
+Lag/Lead
+📊 Pandas + NumPy
+Time series basics
+Date filtering
+Rolling mean
+Expanding window
+NumPy linear algebra
+Matrix multiplication
+Eigenvalues (basic idea)
+🚀 DAY 7 (Mock Interview Day)
+🐍 Python
+Mix problems (timed)
+Debug code
+Optimize solution
+Explain logic
+Edge cases
+Clean coding
+Write functions
+🗄️ SQL
+Complex queries
+Multi-table joins
+Real case dataset
+Performance optimization
+Index basics
+Query explanation
+Write from scratch
+📊 Pandas + NumPy
+Load dataset
+Clean data
+Handle missing values
+Group + analyze
+Visual insight (optional)
+Feature creation
+Final summary
